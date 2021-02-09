@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "RMS"
+  "defaultProject": "RMS",
+  "cli": {
+    "analytics": "de8ca56d-4304-4e63-a7f7-f848cbe060ef"
+  }
 }
